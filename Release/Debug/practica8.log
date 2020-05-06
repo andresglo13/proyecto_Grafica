@@ -1,0 +1,9 @@
+﻿  Main_prac10.cpp
+c:\users\administrador\desktop\final\practica8\practica8\main_prac10.cpp(455): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\administrador\desktop\final\practica8\practica8\main_prac10.cpp(809): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\administrador\desktop\final\practica8\practica8\main_prac10.cpp(810): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\administrador\desktop\final\practica8\practica8\main_prac10.cpp(814): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\administrador\desktop\final\practica8\practica8\main_prac10.cpp(815): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\administrador\desktop\final\practica8\practica8\main_prac10.cpp(817): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\administrador\desktop\final\practica8\practica8\main_prac10.cpp(818): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  practica8.vcxproj -> C:\Users\Administrador\Desktop\final\practica8\Debug\practica8.exe
